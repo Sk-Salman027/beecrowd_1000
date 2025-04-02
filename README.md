@@ -1,3 +1,6 @@
 ## Print Hello World!
 
-### use only printf ( printf() ) function
+### use only printf function  
+```c
+printf("");
+```
